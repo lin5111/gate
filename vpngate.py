@@ -60,8 +60,10 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 DEFAULT_EDGE_HOSTS = [
     "saas.sin.fan:443",
     "www.mfyx.cn:443",
+    "cf.0sm.com:443"
+    "cloudflare.182682.xyz:443"
     "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
+    "cf.877771.xyz:443",
     "cdn.204910.best:443",
     "cdn.ctn32.us.kg:443",
     "p.etime.vip:443",
